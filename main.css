@@ -18,7 +18,7 @@ body {
 /*banner section start*/
 #banner {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), #009688),
-    url(massge-photo/4.jpg);
+    url(photo/1.jpg);
   background-position: center;
   background-size: cover;
   height: 103vh;
